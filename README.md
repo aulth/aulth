@@ -1,6 +1,4 @@
 ### Hi there, I'm Mohd Usman 👋
-- 🔭 I’m currently working on Full Stack Web Development...
-- 🌱 I’m currently learning ReactJS, NodeJS
 <!--
 **aulth/aulth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
