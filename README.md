@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js, Node.js, TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://aulth.github.io/usman/](https://aulth.github.io/usman/)
-
-- 📄 Know about my experiences [https://raw.githubusercontent.com/aulth/usman/main/cv_mohd_usman.pdf](https://raw.githubusercontent.com/aulth/usman/main/cv_mohd_usman.pdf)
+- 👨‍💻 All of my projects are available at [https://mohd-usman.vercel.app](https://mohd-usman.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
