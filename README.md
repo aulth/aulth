@@ -20,7 +20,7 @@
 
 ---
   ## 💰 You can help me by Donating
-  [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohdusman) 
+  [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/mohdusman) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
